@@ -27,3 +27,7 @@ for item in nilai:
     print("| {no:2d} | {nama:12s} |{nim:9s} | {tugas:7d} | {uts:5d} |{uas:5d} | {ahir:6.2f}) |"
            .format(no=i, nama=item[0], nim=item[1], tugas=item[2], uts=item[3], uas=item[4], ahir=item[5]))
 print("====================================================================")
+
+
+![tugas ahir](https://user-images.githubusercontent.com/56243487/69498172-58668680-0f17-11ea-9104-1bf81795a9c9.PNG)
+
